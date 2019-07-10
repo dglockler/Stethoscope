@@ -67,6 +67,10 @@ Assembly Instructions
 * Attach the ear tubes to the molded earplugs.
 * Test the stethoscope as per the validation instructions.
 
+Assembly demonstration available here:
+
+https://www.youtube.com/watch?v=u-KNTc0POLA&
+
 Printing the inserts
 ====================
 The inserts are included in the `manual` directory. Using 8.5 x 11 (Legal) paper,
